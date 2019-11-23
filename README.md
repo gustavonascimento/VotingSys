@@ -16,13 +16,13 @@ Para seguir este tutorial você irá necisstar do Visual Studio Code e a extens�
 - Clicar no ícone da extenão IBM Blockchain Extension dentro do Visual Studio. Este ícone é um quadrado, e geralmente é o último ícone do Visual Studio do lado esquerdo.
 - Na aba "FABRIC ENVIRONMENTS", clique no simbolo dos três pontinho e escolha a opção *Start Fabric Runtime*.
   <p align="center">
-    <img src="startFabric.png">
+    <img src="imagens/startFabric.png">
   </p>
   
 - Quando este processo terminar, dentro da aba "FABRIC ENVIRONMENTS" irá aparecer o diretório Smart Contracts, com os subdiretórios Instantiated e Installed.
 
   <p align="center">
-    <img src="contracts.png">
+    <img src="imagens/contracts.png">
   </p>
 
 
@@ -40,7 +40,7 @@ Se tudo der certo, a notificação abaixo será exibida
   Clique em *+ Instantiate* 
 
 <p align="center">
-  <img src="instantiate.png">
+  <img src="imagens/instantiate.png">
 </p>
 
 Escolha o canal *mychannel* para instanciar o contrato
@@ -62,7 +62,7 @@ sob subdiretório *Instantiate* no lado esquerdo, como mostra a figura.
 
 
 <p align="center">
-  <img src="instantiated.png">
+  <img src="imagens/instantiated.png">
 </p>
 
 ## 4. Exportar os Detalhes de Conexão
@@ -74,13 +74,13 @@ sob subdiretório *Instantiate* no lado esquerdo, como mostra a figura.
 - Na aba "FABRIC WALLETS", clique com o botão direito em `local_fabric_wallet` e selecione *Export Wallet*. 
 
 <p align="center">
-  <img src="wallet.png">
+  <img src="imagens/wallet.png">
 </p>
 
 - Selecione o diretório destino: `evote/web-app/server`, e salve-a com o nome "wallet"
 
 <p align="center">
-  <img src="saveWallet.png">
+  <img src="imagens/saveWallet.png">
 </p>
 
 #### Atualize as configurações
