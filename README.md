@@ -29,7 +29,7 @@ Para seguir este tutorial você irá necisstar do Visual Studio Code e a extens�
 ## 2. Instalar o Smart Contract 
 
 Agora, clique em + Instalar e escolha o par que está disponível. A extensão perguntará qual pacote deve ser
-instalar. Escolha voterContract@7.0.0, que está no diretório 'evote/contract' que você acabou de clonar.
+instalar. Escolha voterContract@7.0.0, que está no diretório 'votingsys/contract' que você acabou de clonar.
  
 Se tudo der certo, a notificação abaixo será exibida
 
@@ -67,7 +67,7 @@ sob subdiretório *Instantiate* no lado esquerdo, como mostra a figura.
 
 ## 4. Exportar os Detalhes de Conexão
 
-- Na aba "FABRIC GATEWAYS", clique no símbolo dos três pontinhos e clique em *Export Connection Profile* e escolha o diretório de destino: `evote/web-app/server`. 
+- Na aba "FABRIC GATEWAYS", clique no símbolo dos três pontinhos e clique em *Export Connection Profile* e escolha o diretório de destino: `votingsys/web-app/server`. 
 
 #### Exportar Carteira
 
@@ -77,7 +77,7 @@ sob subdiretório *Instantiate* no lado esquerdo, como mostra a figura.
   <img src="imagens/wallet.png">
 </p>
 
-- Selecione o diretório destino: `evote/web-app/server`, e salve-a com o nome "wallet"
+- Selecione o diretório destino: `votingsys/web-app/server`, e salve-a com o nome "wallet"
 
 <p align="center">
   <img src="imagens/saveWallet.png">
