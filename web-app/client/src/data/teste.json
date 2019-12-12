@@ -1,0 +1,11 @@
+{
+    "registrarDistinguishedName": "Eleições FGA",
+    "registrarOrg": "Universidade de Brasília",
+    "registrarLocality": "Gama",
+    "registrarState": "Distrito Federal",
+    "registrarCountry": "Brasil",
+    "registrarPrecinctNums": [1,2,3],
+    "electionName": "Eleições FGA",
+    "electionCountry": "Brasil",
+    "electionYear": 2020
+  }
